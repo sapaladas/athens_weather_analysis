@@ -17,8 +17,8 @@
 
 - Athens is the capital and largest city of Greece and one of the world's oldest cities
 - Athens is, also, known for its hot-summer Mediterranean climate and is the hottest city in mainland Europe
-- The dominant feature of Athens' climate is alternation between prolonged hot and dry summers and mild, wetter winters
-- With an average of 433mm of yearly precipitation, rainfall occurs largely between the months of October and April
+- The dominant feature of Athens' climate is alternation between prolonged hot summers and mild, wetter winters
+- With an avg of 433mm of yearly precipitation, rainfall occurs largely between the months of October and April
 - July and August are the driest months when thunderstorms occur sparsely
 
 ## *Project Overview*
