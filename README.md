@@ -23,9 +23,9 @@
 
 ## *Project Overview*
 
-- Our aim in this project is to explore the weather in Athens over a period of more than 50 years (1955-2020)
-- For this purpose we use data collected from the Hellinikon meteorological station
-- The analysis is mainly focused on four themes:
+- Our aim in this project was to explore the weather in Athens over a period of more than 50 years (1955-2020)
+- For this purpose we used data collected from the Hellinikon meteorological station
+- The analysis was mainly focused on four themes:
   - The *deviation of summer temperatures*
   - The *evolution of daily temperatures*
   - The *extreme temperature events*
@@ -36,7 +36,7 @@
 - The data were acquired from two sources:
   - [National Oceanic and Atmospheric Administration's National Centers for Environmental Information](https://www.ncdc.noaa.gov/cdo-web/search)
   - [Hellenic Data Service](https://data.hellenicdataservice.gr/dataset/66e1c19a-7b0e-456f-b465-b301a1130e3f)
-- The data include information on temperature, precipitation, humidity, wind speed and other characteristics
+- The data included information on temperature, precipitation, humidity, wind speed and other characteristics
 
 ## *Resources*
 
